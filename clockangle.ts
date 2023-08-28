@@ -18,6 +18,6 @@ function getClockAngle(hh_mm:string):number {
     return resultAngle
     }
 
-   let result:number = getClockAngle("09:30")
+   let result:number = getClockAngle("09:00")
 
     console.log(result)
